@@ -1,0 +1,15 @@
+Conditional Statement
+
+#include<iostream>
+usingnamespace std;
+int main()
+ {
+int a,b;
+cout<<"inpit 2 integers a and b";
+cin>>a;
+cin>>b;
+//statemet : a>b
+cout <<(a>b)
+//And ==&&
+//OR==
+}
